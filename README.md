@@ -9,7 +9,7 @@
 
 <h2>ℹ️ &nbsp;Certificates</h2>
 <p align="center">
-<img alt="Certificates" src="https://github.com/XCBA/XCBA/HackerRank_ProblemSolving(Basic).png" />
+<img alt="Certificates" src="https://github.com/XCBA/XCBA/blob/main/HackerRank_ProblemSolving(Basic).png" />
 </p>
 
 
