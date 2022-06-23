@@ -11,7 +11,7 @@
 <h2>ℹ️ &nbsp;Certificates</h2>
 
 
-Problem Solving(Basic)             |  Problem Solving(Intermediate)
+Problem Solving             |  Problem Solving
 :-------------------------:|:-------------------------:
 ![](https://github.com/XCBA/XCBA/raw/main/HackerRank_ProblemSolving(Basic).png)  |  ![](https://github.com/XCBA/XCBA/raw/main/HackerRank_ProblemSolving(Intermediate).png)
 <p align="center"/>
