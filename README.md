@@ -8,7 +8,7 @@
 </h4>
 
 
-<h2>ℹ️ &nbsp;Certificates</h2>
+<h2>🥇 Certificates</h2>
 
 
 Certificates #1             |  Certificates #2
@@ -19,7 +19,6 @@ Certificates #1             |  Certificates #2
 
 
 
-<h2>ℹ️ &nbsp;Github Info</h2>
+<h2>⚡ Github Info</h2>
 
-<summary><b>📊 Github Contribution Graph</b></summary>
 <p align="center"<a href="#"><img alt="Ashish Kumar Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=XCBA&bg_color=transparent&color=e05397&line=e05397&point=ff007b&hide_border=false&" /></a></p>
