@@ -4,7 +4,7 @@
 </h2>
 
 <h4 align='center'>
-  I'm Oliver, Blockchain | FullStack Engineer
+  Blockchain | FullStack Engineer
 </h4>
 
 
