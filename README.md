@@ -4,7 +4,7 @@
 </h2>
 
 <h4 align='center'>
-  Blockchain | FullStack Engineer
+  I'm Oliver, Blockchain | FullStack Engineer
 </h4>
 
 Here are some ideas to get you started:
