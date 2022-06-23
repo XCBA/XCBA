@@ -8,10 +8,10 @@
 </h4>
 
 <h2>🧑 About me </h2>
-<h3>
+<p>
 &nbsp;&nbsp;&nbsp;&nbsp;It's easy to find people promising everything and delivering almost nothing.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;My major strengths are in giving realistic promises, being responsive and responsible, concentrating on business needs and communications. <br>
-&nbsp;&nbsp;&nbsp;&nbsp;So I am not a pure geek thinking about technology only but, first, a <b>making-things-happen</b> person.</h3>
+&nbsp;&nbsp;&nbsp;&nbsp;So I am not a pure geek thinking about technology only but, first, a <b>making-things-happen</b> person.</p>
 
 <h2>🥇 Certificates</h2>
 
