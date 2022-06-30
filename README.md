@@ -18,7 +18,7 @@
 
 Certificates #1             |  Certificates #2
 :-------------------------:|:-------------------------:
-![](https://github.com/XCBA/XCBA/raw/main/HackerRank_ProblemSolving(Basic).png)  |  ![](https://github.com/XCBA/XCBA/raw/main/HackerRank_ProblemSolving(Intermediate).png)
+![](https://github.com/XCBA/XCBA/raw/main/HackerRank_ProblemSolving(Javascript).png)  |  ![](https://github.com/XCBA/XCBA/raw/main/HackerRank_ProblemSolving(Intermediate).png)
 <p align="center"/>
 </p>
 
